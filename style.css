@@ -19,6 +19,7 @@ tooltip {
 #tray,
 #cpu,
 #memory,
+#custom-gpu,
 #battery,
 #language,
 #backlight,
@@ -66,6 +67,7 @@ tooltip {
 }
 #cpu,
 #memory,
+#custom-gpu,
 #network,
 #language,
 #backlight,
@@ -77,6 +79,7 @@ tooltip {
 }
 #cpu.critical,
 #memory.critical,
+#custom-gpu.critical,
 #temperature.critical,
 #custom-fans.off,
 #custom-fans {
