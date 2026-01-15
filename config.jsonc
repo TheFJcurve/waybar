@@ -141,8 +141,8 @@
       "on": "",
       "off": "󰠝"
     },
-    "on-click": "sudo /home/orion/.config/waybar/cool.sh on",
-    "on-click-right": "sudo /home/orion/.config/waybar/cool.sh off",
+    "on-click": "/home/orion/.config/waybar/cool.sh on",
+    "on-click-right": "/home/orion/.config/waybar/cool.sh off",
     "interval": 5,
     "return-type": "json"
   }

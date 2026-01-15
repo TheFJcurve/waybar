@@ -3,11 +3,6 @@
 # ASUS Fan Control Script
 # Requires root privileges
 
-if [ "$EUID" -ne 0 ]; then
-    echo "This script must be run as root"
-    exit 1
-fi
-
 MODE=$1
 
 case $MODE in
